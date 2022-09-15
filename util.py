@@ -41,5 +41,4 @@ def load_data(file_name='winequality-red.csv', verbose = False, split_ratio = 0.
 
     return x_train, y_train, x_test, y_test
     
-
 load_data(verbose = True)
